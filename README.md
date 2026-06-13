@@ -6,7 +6,7 @@ Local & sovereign demo scripts for **NVIDIA Nemotron ASR Streaming (0.6B)** - of
 
 The complete walkthrough (setup, model download, streaming, live demo) is on my blog:
 
-**[Install NVIDIA Nemotron ASR Streaming Locally – Step-by-Step Guide](https://ai-box.eu/en/news/install-nvidia-nemotron-asr-streaming-locally-step-by-step-guide/2530/)**
+**[Install NVIDIA Nemotron ASR Streaming Locally - Step-by-Step Guide](https://ai-box.eu/en/news/install-nvidia-nemotron-asr-streaming-locally-step-by-step-guide/2530/)**
 
 ## What's inside
 
